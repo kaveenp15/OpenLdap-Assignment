@@ -1,0 +1,20 @@
+
+dn: ou=permanent,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: permanent
+description: Employee Type
+
+dn: ou=contract,dc=ltacademy,dc=com
+objectclass: organizationalunit
+ou: contract
+description: Employee Type
+
+dn: ou=books,dc=ltacademy, dc=com
+objectclass: organizationalunit
+ou: books
+description: Books details
+
+dn: ou=System,dc=ltacademy, dc=com
+objectclass: organizationalunit
+ou: System
+description: System Info
